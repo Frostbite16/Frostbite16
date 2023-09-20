@@ -1,4 +1,10 @@
-### Hi there 👋
+Bem vindo👋
+
+da uma olhada no [Linkedin](https://www.linkedin.com/in/guilherme-zanan-7834a6276/)
+
+Programo em: C
+Estou aprendendo: C++
+Tenho Interesse em: Java e Python
 
 <!--
 **Frostbite16/Frostbite16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
