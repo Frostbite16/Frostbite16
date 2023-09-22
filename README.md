@@ -1,6 +1,6 @@
 # Bem vindo👋
 
-- da uma olhada no [Linkedin](https://www.linkedin.com/in/guilherme-zanan-7834a6276/)
+- da uma olhada no meu [Linkedin](https://www.linkedin.com/in/guilherme-zanan-7834a6276/)
   
 - Programo em: C
 - Estou aprendendo: C++
