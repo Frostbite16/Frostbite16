@@ -45,11 +45,10 @@ Meus projetos
                   .....                  
                     .
 ```
+
+Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://judge.beecrowd.com/) e aprender sobre novas tecnologias
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://judge.beecrowd.com/) e aprender sobre novas tecnologias
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frostbite16)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Frostbite16/Frostbite16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
