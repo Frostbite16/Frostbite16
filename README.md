@@ -47,6 +47,7 @@ Meus projetos
 ```
 
 Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://judge.beecrowd.com/) e aprender sobre novas tecnologias
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
