@@ -12,6 +12,7 @@ Aqui é aonde eu guardo meus projetos, minhas tarefas e aonde eu meus codigos qu
 
 🔗 Redes sociais
 
+
 [<img src=https://github.com/Frostbite16/Frostbite16/assets/84871179/d39edf43-ba80-4b51-ac2a-739dd38fea32](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) width="30" height="40"/>](https://www.linkedin.com/in/guilherme-zanan-7834a6276)
 ### ✨&nbsp; Sobre mim
 Sou graduando em Ciências da computação. 
