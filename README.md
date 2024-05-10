@@ -49,6 +49,15 @@ Meus projetos
 Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://judge.beecrowd.com/) e aprender sobre novas tecnologias
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 09 May 2024 - To: 09 May 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
