@@ -8,9 +8,9 @@ Aqui é aonde eu guardo meus projetos, minhas tarefas e aonde eu meus codigos qu
 💻 treinando pra maratona de computação
 
 👾 aprendendo sobre programação de jogos
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" height=200 />
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" height=180 />
 
-🔗 Redes sociais
+### 🔗 Redes sociais
 
 
 [<img src=https://github.com/Frostbite16/Frostbite16/assets/84871179/d39edf43-ba80-4b51-ac2a-739dd38fea32](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) width="30" height="40"/>](https://www.linkedin.com/in/guilherme-zanan-7834a6276)
