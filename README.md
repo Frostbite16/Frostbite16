@@ -50,13 +50,14 @@ Meus projetos
 
 Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://judge.beecrowd.com/) e estudar sobre ML
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Languages and tools&nbsp;</b></summary>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,vim,vscode,pycharm,unity,git&perline=10" /
->
 
-</details>
+### Languages and tools
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,vim,vscode,pycharm,unity,git&perline=10" />
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Frostbite16&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 
 
