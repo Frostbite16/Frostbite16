@@ -68,11 +68,12 @@ Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://ju
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 May 2024 - To: 10 May 2024
+From: 09 May 2024 - To: 11 May 2024
 
-Total Time: 10 mins
+Total Time: 21 mins
 
-C   10 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C++   11 mins         >>>>>>>>>>>>>------------   50.29 %
+C     10 mins         >>>>>>>>>>>>-------------   49.71 %
 ```
 
 <!--END_SECTION:waka-->
