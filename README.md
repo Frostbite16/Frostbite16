@@ -66,5 +66,4 @@ Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://ju
 
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
