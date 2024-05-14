@@ -66,11 +66,13 @@ Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://ju
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 44 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,5 +138,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/05/2024 18:34:05 UTC
+ Last Updated on 14/05/2024 18:35:15 UTC
 <!--END_SECTION:waka-->
