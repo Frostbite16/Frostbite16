@@ -72,8 +72,6 @@ Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://ju
 
 > 📦 1.0 kB Used in GitHub's Storage 
  > 
-> 🏆 44 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -138,5 +136,5 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 14/05/2024 18:35:15 UTC
+ Last Updated on 15/05/2024 18:34:56 UTC
 <!--END_SECTION:waka-->
