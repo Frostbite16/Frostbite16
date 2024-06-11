@@ -17,10 +17,6 @@ Aqui é aonde eu guardo meus projetos, minhas tarefas e aonde eu meus codigos qu
 ### ✨&nbsp; Sobre mim
 Sou graduando em Ciências da computação. 
 
-gosto de linguagems que confiam em mim para implementar o que eu quiser
-
-[📖&nbsp; Biblia](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
-
 #### Meus projetos
 
 [Utilzação do metaverso pra ensino das conicas](Em andamento): Projeto de iniciaçâo ciêntifica que procura deixar o ensino das seçôes conicas menos abstratos. Todo o projeto está sendo feito em unity utilizando o C#, o ambiente criado sera no espaço e o jogador terá que utilizar as curvas cônicas para controlar a trajetória de sua nave. (Data prevista para a finalização: 01/08/25)
