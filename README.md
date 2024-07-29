@@ -1,4 +1,4 @@
-# Bem vindo👋
+<!-- # Bem vindo👋 
 
 Aqui é aonde eu guardo meus projetos, minhas tarefas e aonde eu meus codigos quebrados 
 / This is where i store my projects, my exercises and my broken codes.
@@ -47,13 +47,13 @@ Sou graduando em Ciências da computação.
 
 Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://judge.beecrowd.com/) e estudar sobre ML
 
-
+-->
 ### Languages and tools
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,vim,vscode,pycharm,unity,git&perline=10" />
 
 
 
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Frostbite16&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
 
@@ -61,7 +61,7 @@ Durante meu tempo livre eu gosto de resolver exercicios no [beecrowd](https://ju
 
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
